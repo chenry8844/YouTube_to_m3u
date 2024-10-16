@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="台湾" tvg-logo="" tvg-id="", 東森財經新聞
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1729062460/ei/3BEPZ5qOJIiZ2_gPsqir4Qs/ip/20.25.192.99/id/WHEPzbFA3hw.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51296071/txs/51296064%2C51296065%2C51296066%2C51296067%2C51296068%2C51296069%2C51296070%2C51296071/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/54MbxTS1MOsQJ62oTcc18qQmVMiJrkIhGD3VzhSR5ftx9dLa7NHLekvkAF5V9Lc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51300760%2C51312688/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMlfRW2dAtVnwRaJQMD0kUZ6F_EHFun_G_A1n7rzhe4JAiB8dQ_OfqYwH2LTb1oom1-EmkVwni_Oo_SDvedKgY45eA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 机场免费节点
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
